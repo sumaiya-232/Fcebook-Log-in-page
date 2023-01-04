@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgb(6, 108, 211);
+}
+hr{
+    color: rgb(215, 206, 206);
+}
+.one{
+    font-family: sans-serif;
+}
+.facebook{
+    display: flex;
+justify-content: space-evenly;
+margin-top: 120px;
+}
+.two{
+     background: rgb(245, 239, 239);
+     height: 255px;
+     border-radius: 10px;
+     padding: 15px;
+     text-align: center;
+}
+input{
+    padding: 10px;
+    border-radius: 8px;
+
+}
+.ten{
+    text-align: center;
+    background-color: rgb(98, 98, 216);
+    color: #fff;
+    padding: 10px;
+    width: 100%;
+    border-radius: 8px;
+    border: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ten:hover{
+    background-color: blue;
+}
+.nine{
+    text-align: center;
+    color: #fff;
+    background-color: rgb(125, 186, 63);
+    padding: 7px;
+    border-radius: 8px;
+    border: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nine:hover{
+    background-color: rgb(79, 154, 3);
+}
+div a {
+    color: rgb(58, 125, 202);
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.four{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
